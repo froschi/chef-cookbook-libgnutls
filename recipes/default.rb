@@ -1,3 +1,4 @@
+include_recipe "libgcrypt"
 include_recipe "libtasn"
 
 packages = %w/
