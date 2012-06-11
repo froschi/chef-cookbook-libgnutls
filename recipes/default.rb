@@ -15,7 +15,6 @@ when "precise"
     libgnutls26
   /
 end
-end
 
 packages.each do |pkg|
   package pkg do
